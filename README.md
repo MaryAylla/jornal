@@ -1,0 +1,1 @@
+Este site foi desenvolvido como parte de uma iniciativa escolar voltada à criação de um jornal digital. O objetivo foi criar um espaço informativo com matérias, notícias e seções voltadas ao público escolar. Trabalhei na organização do conteúdo, no estilo visual e na estruturação das páginas, contribuindo com um projeto colaborativo de comunicação interna da escola.
